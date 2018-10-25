@@ -1,0 +1,1 @@
+/var/www/formation_magento2/app/code/Magento/Ui/view/frontend/web/js/model/messages.js

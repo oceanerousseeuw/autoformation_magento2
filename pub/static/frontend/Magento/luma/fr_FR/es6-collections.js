@@ -1,0 +1,1 @@
+/var/www/formation_magento2/lib/web/es6-collections.js
